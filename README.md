@@ -1,1 +1,4 @@
-# R-Markdown-and-Leaflet
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
